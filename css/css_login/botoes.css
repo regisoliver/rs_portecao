@@ -1,0 +1,126 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* CSS dos Botões do FORM pagina CLIENTE.PHP */
+/*********************************************/
+#botoes {
+	display: inline-block;
+	background-color: #F06B48;
+	color: #fff;
+	padding: 10px 20px;
+	text-decoration: none;
+	box-sizing: border-box;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	border: 0px;
+}
+
+#botoes_buscar{
+	display: inline-block;
+	background-color: #F06B48;
+	color: #fff;
+	padding: 7px 7px;
+	text-decoration: none;
+	box-sizing: border-box;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	border: 0px;
+	
+	position:absolute;
+	width:60px;
+	float:right;
+	margin-left:639px;
+}
+
+#excluir_cli{
+	display: inline-block;
+	background-color: #F06B48;
+	color: #fff;
+	padding: 10px 20px;
+	text-decoration: none;
+	box-sizing: border-box;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	border: 0px;
+	
+	margin-right:70px;
+	float:right;
+}
+#excluir_cli:hover {
+background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.15));
+cursor: pointer;
+}
+
+#botoes:hover {
+background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.15));
+cursor: pointer;
+}
+
+#botoes_buscar:hover {
+background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.15));
+cursor: pointer;
+}
+
+
+
+/* CSS dos Botões do FORM pagina RELACAO de CLIENTES*/
+/*****************************************************/
+
+
+#botoes {
+	display: inline-block;
+	background-color: #F06B48;
+	color: #fff;
+	padding: 10px 20px;
+	text-decoration: none;
+	box-sizing: border-box;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	border: 0px;
+}
+
+#botoes_buscar{
+	display: inline-block;
+	background-color: #F06B48;
+	color: #fff;
+	padding: 7px 7px;
+	text-decoration: none;
+	box-sizing: border-box;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	border: 0px;
+	
+	position:absolute;
+	width:60px;
+	float:right;
+	margin-left:639px;
+}
+
+#imprimir_cli{
+	display: inline-block;
+	background-color: #F06B48;
+	color: #fff;
+	padding: 10px 20px;
+	text-decoration: none;
+	box-sizing: border-box;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 14px;
+	border: 0px;
+	
+	margin-right:22px;
+	float:right;
+}
+#imprimir_cli:hover {
+background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.15));
+cursor: pointer;
+}
+
+#botoes:hover {
+background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.15));
+cursor: pointer;
+}
+
+#botoes_buscar:hover {
+background-image: linear-gradient(to bottom, transparent, rgba(0,0,0,.15));
+cursor: pointer;
+}

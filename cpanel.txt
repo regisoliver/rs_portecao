@@ -1,0 +1,22 @@
+Dns Zone check is enabled.
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: rsprotecao.com.br
+| Ip: 162.221.185.202 (n)
+| HasCgi: y
+| UserName: rsprotecao
+| PassWord: mZkMAG7@8B%x
+| CpanelMod: paper_lantern
+| HomeRoot: /home
+| Quota: 1.000 MB
+| NameServer1: ns1.wmwebsites.com.br
+| NameServer2: ns2.wmwebsites.com.br
+| NameServer3: 
+| NameServer4: 
+| Contact Email: contatoweboliver@hotmail.com
+| Package: wmwebsit_UM
+| Feature List: default
+| Language: pt_br
++===================================+
+...Done
